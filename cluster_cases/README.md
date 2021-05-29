@@ -8,6 +8,8 @@ ST-DBSCAN code source - [Py-ST-DBSCAN](https://github.com/eubr-bigsea/py-st-dbsc
 - copy the API key, request will be approved in a few hours
 - pass the __API KEY__ as a command line argument
 
-        ```python rt_cluster.py {API-KEY}```
+```
+python rt_cluster.py {API-KEY}
+```
 
 *can also plug in other realtime data sources with minor tweaks
