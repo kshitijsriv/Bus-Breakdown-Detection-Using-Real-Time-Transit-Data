@@ -12,5 +12,5 @@ Refer to this [README](cluster_cases/README.md) file
 ##TO-DO
 - [x] code for real-time cluster detection
 - [ ] code for cluster detection from stored databases
-- [ ] code for dataloss case detection from stored databases
+- [x] code for dataloss case detection from stored databases
 - [ ] code for real-time dataloss case detection
